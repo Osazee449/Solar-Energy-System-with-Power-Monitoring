@@ -20,7 +20,7 @@ Circuit & Wiring
 The system is assembled in two main parts. First, the core solar charger is built using the Waveshare board, battery, and panel. Second, the monitoring circuit is added by placing the ACS712 sensor between the solar panel and the Waveshare board, with the sensor's output being read by the ESP32
 
 ![A photo of my completed project breadboard](./IMG_4418.jpg)
-![A photo of my completed project breadboard](./IMG_4376.JPG)
+![A photo of my completed project breadboard](./IMG_4376.jpg)
 
 Source Code
 Below is the complete, commented C++ code for the ESP32 microcontroller.
