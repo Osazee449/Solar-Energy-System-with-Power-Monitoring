@@ -18,3 +18,5 @@ Sensor: ACS712 Hall-Effect Current Sensor (5A Module)
 
 Circuit & Wiring
 The system is assembled in two main parts. First, the core solar charger is built using the Waveshare board, battery, and panel. Second, the monitoring circuit is added by placing the ACS712 sensor between the solar panel and the Waveshare board, with the sensor's output being read by the ESP32
+
+![A photo of my completed project breadboard](./project-photo.jpg)
