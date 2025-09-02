@@ -41,7 +41,7 @@ const int SENSOR_PIN = 34; // GPIO 34 is a good ADC (Analog-to-Digital Converter
 // --- CALIBRATION AND SETUP CONSTANTS ---
 
 
-// The voltage of your solar panel.
+// The voltage of the solar panel.
 const float PANEL_VOLTAGE = 6.0;
 
 
