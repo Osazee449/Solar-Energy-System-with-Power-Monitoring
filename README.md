@@ -23,11 +23,7 @@ The system is assembled in two main parts. First, the core solar charger is buil
 ![A photo of my completed project breadboard](./IMG_4376.jpg)
 
 Source Code
-Below is the complete, commented C++ code for the ESP32 microcontroller.
-/*
-  Solar Energy System with Power Monitoring
-  Author: Osazee Imasuen
-  Date: August 20, 2025
+
 
 
   Description:
